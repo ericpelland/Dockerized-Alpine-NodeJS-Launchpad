@@ -1,1 +1,1 @@
-docker build . -t rsapi && docker run -it rsapi /bin/bash
+docker build . -t project && docker run -it project /bin/bash
