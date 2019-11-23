@@ -15,7 +15,7 @@ The docker container will be setup with
 * A project package.json
 
 ## Use
-To run this repository I have create a batch script, and a shell script.
+To run this repository I have created a batch script, and a shell script.
 ```
 sh start.sh
 ```
